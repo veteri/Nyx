@@ -45,8 +45,8 @@ For a 1080p image this would mean you could inject up to 777kb of data.
 **Q: Can i inject anything into an image?**
 
 A: Yes, even executables/DLL's.\
-However the amount of data directly depends on how many pixels your source image has.
-Check my other repository which was the original motivation for this small helper tool.
+However the amount of data directly depends on how many pixels your source image has.\
+Check my other [repository](https://github.com/veteri/Discord-Cache-Exploit) which was the original motivation for this small helper tool.
 
 **Q: Can i use this to add a hidden watermark to my art?**
 
