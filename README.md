@@ -1,3 +1,4 @@
+![Logo](https://i.imgur.com/GUjzfG1.png)
 # Nyx
 Embed any data into png images using steganography\
 **Note: This is a pure CLI tool.**
