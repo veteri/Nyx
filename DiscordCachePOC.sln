@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31313.79
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DiscordCachePOC", "DiscordCachePOC\DiscordCachePOC.vcxproj", "{9C44A042-0D27-4044-9FD8-26E626D6831F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9C44A042-0D27-4044-9FD8-26E626D6831F}.Debug|x64.ActiveCfg = Debug|x64
+		{9C44A042-0D27-4044-9FD8-26E626D6831F}.Debug|x64.Build.0 = Debug|x64
+		{9C44A042-0D27-4044-9FD8-26E626D6831F}.Debug|x86.ActiveCfg = Debug|Win32
+		{9C44A042-0D27-4044-9FD8-26E626D6831F}.Debug|x86.Build.0 = Debug|Win32
+		{9C44A042-0D27-4044-9FD8-26E626D6831F}.Release|x64.ActiveCfg = Release|x64
+		{9C44A042-0D27-4044-9FD8-26E626D6831F}.Release|x64.Build.0 = Release|x64
+		{9C44A042-0D27-4044-9FD8-26E626D6831F}.Release|x86.ActiveCfg = Release|Win32
+		{9C44A042-0D27-4044-9FD8-26E626D6831F}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CB6EF9B0-C760-4AFD-B99D-E3ED9DC3A1E0}
+	EndGlobalSection
+EndGlobal
